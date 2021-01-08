@@ -1,0 +1,2048 @@
+{
+    "blocks": [
+        {
+            "name": "dirt",
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 1,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 2,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 3,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 3,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 4,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 5,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 6,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 7,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 8,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 9,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 10,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 11,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 12,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 13,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 14,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 15,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 16,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 17,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 18,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 19,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 20,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 21,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 22,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 23,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 24,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 25,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 26,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 27,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 28,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 29,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 29,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 28,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 27,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 26,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 25,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 24,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 23,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 22,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 21,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 20,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 19,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 18,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 17,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 16,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 15,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 15,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 14,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 13,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 12,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 9,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 8,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 7,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 6,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 5,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 4,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 3,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 3,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 2,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 1,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 3,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 2,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 4,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 4,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 5,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 6,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 7,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 8,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 9,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 10,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 11,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 12,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 13,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 14,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 15,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 16,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 17,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 18,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 19,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 20,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 21,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 21,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 22,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 23,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 24,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 25,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 26,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 27,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 28,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 23,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 22,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 24,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 25,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 26,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 23,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 20,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 19,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 18,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 16,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 15,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 14,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 13,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 12,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 11,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 10,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 7,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 6,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 5,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 4,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 5,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 6,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 7,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 8,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 17,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 17,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 18,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 19,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 16,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 15,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 14,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 13,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 12,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 11,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 10,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 9,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 10,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 9,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 11,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 12,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 13,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 14,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 15,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 16,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 17,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 18,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 19,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 20,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 21,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 22,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 22,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 21,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 20,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 29,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 28,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 27,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 26,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 25,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 24,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 23,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 22,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 21,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 20,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 19,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 18,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 17,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 16,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 15,
+                "y": 9
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 14,
+                "y": 9
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 13,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 12,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 8,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 7,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 6,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 5,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 4,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 3,
+                "y": 10
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 2,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 1,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 30,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "cement",
+            "position": {
+                "x": 31,
+                "y": 11
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 30,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 31,
+                "y": 12
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 31,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 30,
+                "y": 13
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 30,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 31,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 29,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 31,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 30,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 29,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 27,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 25,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 26,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 27,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 28,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 29,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 31,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 28,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 23,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 24,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 30,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 31,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 30,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 29,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 28,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 27,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 26,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 25,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 24,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 23,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 22,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 21,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 20,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 19,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 18,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 17,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 16,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 15,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 14,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 13,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 12,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 11,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 8,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 7,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 6,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 5,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 6,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 8,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 9,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 10,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 7,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 5,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 4,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 4,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 3,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 2,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 1,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 1,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 0,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 0,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 1,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 2,
+                "y": 15
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 2,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 3,
+                "y": 16
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "collidable": false
+        },
+        {
+            "name": "dirt",
+            "position": {
+                "x": 0,
+                "y": 17
+            },
+            "collidable": false
+        },
+        {
+            "name": "cpu",
+            "position": {
+                "x": 18,
+                "y": 7
+            },
+            "collidable": false
+        },
+        {
+            "name": "3080",
+            "position": {
+                "x": 19,
+                "y": 7
+            },
+            "collidable": false
+        },
+        {
+            "name": "ssd",
+            "position": {
+                "x": 20,
+                "y": 7
+            },
+            "collidable": false
+        },
+        {
+            "name": "psu",
+            "position": {
+                "x": 17,
+                "y": 7
+            },
+            "collidable": false
+        },
+        {
+            "name": "motherboard",
+            "position": {
+                "x": 16,
+                "y": 7
+            },
+            "collidable": false
+        },
+        {
+            "name": "ram",
+            "position": {
+                "x": 15,
+                "y": 7
+            },
+            "collidable": false
+        }
+    ],
+    "player position": {
+        "x": 0,
+        "y": 0
+    }
+}
